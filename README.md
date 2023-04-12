@@ -8,7 +8,7 @@ But, This is need to preprocessing
 1. I don't know this is correct.
 2. If you find the error, Please fix or answer me.
 
-# Professor H2k advice   
+# Professor h2K advice   
 1. 실제 뇌파 데이터는 꼭 범위가 맞지 않음.   
 2. 해당 구간도 모두 범위가 다름.   
 3. 1개의 단어에 대한 Data를 16 x 1200으로 맞추는 것이 말이 전혀 되지가 않으신다고 함. 이유 = 1, 2
